@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chapter 1 – Tricker Glitch</title>
+  <style>
+    body {
+      background-color: #101010;
+      color: #f2f2f2;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 30px;
+      line-height: 1.7;
+    }
+    h1 {
+      color: #00ffee;
+    }
+    a {
+      color: #00ffee;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chapter 1: The Mushroom Hunt Begins</h1>
+  <p>
+    Tricker and Flicker, twin brothers born in the Southern country, weren’t ordinary children. They were the reincarnated souls of a powerful God and Demon — children of Shirori and Bakamai. Born with immense elemental powers beyond human limits, they were feared by even the Legendary Monsters. But to live peacefully in the human world, they had to suppress their strength.
+  </p>
+  <p>
+    With the help of a powerful magic orb, they sealed their power, making their adventurer rank appear as mere E. For 16 years, they trained silently, hiding their true abilities. When they turned 20, they joined the Adventurer’s Guild, just like any normal youth.
+  </p>
+  <p>
+    One day, they accepted a simple E-rank quest — collect 100 mushrooms from the Whispering Forest. Confident, they ventured into the forest. Tricker and Flicker decided to split the job, gathering 40 mushrooms each with ease. Now, only 20 remained.
+  </p>
+  <p>
+    “Let’s go deeper,” said Flicker, scanning the woods with his sharp golden eyes. “You take the east side, I’ll go west. We’ll meet back here in 20 minutes.”
+  </p>
+  <p>
+    The deeper they went, the more the forest whispered. Strange energy pulsed through the trees. Flicker’s instincts tingled. He stepped into a dark clearing—and there, he saw it.
+  </p>
+  <p>
+    A Legendary Monster. Towering, glowing with blue flames, it stared directly at him.
+  </p>
+  <p>
+    The quest... had just turned deadly.
+  </p>
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
