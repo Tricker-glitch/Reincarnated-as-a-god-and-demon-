@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chapter 2 – The Legendary Encounter</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 30px;
+      line-height: 1.7;
+    }
+    h1 {
+      color: #ff0055;
+    }
+    a {
+      color: #00ffee;
+      text-decoration: none;
+    }
+    .quote {
+      color: #ffcc00;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chapter 2: The Legendary Encounter</h1>
+  
+  <p>
+    Flicker’s boots sank into the mossy forest floor as the creature before him stirred. Towering at nearly ten feet, cloaked in blue flame, the Legendary Monster seemed more spirit than flesh. It had the wings of a dragon, claws of a lion, and a face that shifted like smoke.
+  </p>
+  
+  <p class="quote">"This… this is beyond an S-rank," Flicker whispered. "Is this… a fusion beast?"</p>
+  
+  <p>
+    The monster snarled, and the trees around it caught fire. The orb Flicker wore on his neck—meant to suppress his divine energy—pulsed erratically, warning him against unleashing his true power.
+  </p>
+  
+  <p>
+    But Flicker knew he had no choice.
+  </p>
+  
+  <p>
+    He grabbed the hilt of his sword. Golden markings along the blade began to glow. His seal cracked slightly, and for a split second, his blue eyes flashed pure white.
+  </p>
+  
+  <p class="quote">"I didn't want to reveal my true strength," he muttered, "but if you crave death, so be it."</p>
+  
+  <p>
+    The monster lunged. Flicker leapt into the air, slicing down with divine precision. Lightning cracked above. The forest floor exploded beneath them, dirt and flame clashing midair. The roar of the beast echoed across the entire Whispering Forest.
+  </p>
+  
+  <p>
+    Miles away, Tricker stopped in his tracks. His red sword began to hum — a sign that Flicker had broken the seal. Panic filled his chest.
+  </p>
+  
+  <p class="quote">"Flicker… what did you do?"</p>
+  
+  <p>
+    He dashed westward, branches whipping past him as his own power stirred. “Hold on, brother,” he growled. “I’m coming.”
+  </p>
+
+  <p>
+    Back in the clearing, the battle intensified. Flicker twirled mid-air, casting a barrier of light, while the monster conjured flaming spears from its wings. One sliced his arm — but he didn’t flinch.
+  </p>
+
+  <p>
+    With a roar, Flicker summoned a divine blast — a concentrated pulse of light, fire, and wind. The blast collided with the monster’s chest, sending it flying into the trees.
+  </p>
+
+  <p class="quote">"One warning," Flicker growled, stepping forward. "If you stand again... I won’t hold back."</p>
+
+  <a href="chapter1.html">← Previous</a> | <a href="index.html">Home</a> | <a href="chapter3.html">Next →</a>
+</body>
+</html>
